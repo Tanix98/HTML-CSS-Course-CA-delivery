@@ -23,7 +23,7 @@ GameHub is a marketplace to buy and sell video games, with a target audience of 
 
 ### Netlify host
 
-[Click here to view the website](https://silly-haibt-b7ef5b.netlify.app/index.html)
+[Click here to view the website](https://game-hub-project.netlify.app)
 
 ### Host locally
 
