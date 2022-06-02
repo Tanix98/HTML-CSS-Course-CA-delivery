@@ -42,6 +42,10 @@ GameHub is a marketplace to buy and sell video games, with a target audience of 
 
 ## Acknowledgments
 
+[Roboto typeface](https://fonts.google.com/specimen/Roboto)
+
+[Tourney typeface](https://fonts.google.com/specimen/Tourney)
+
 [Hyperlink images](https://www.youtube.com/watch?v=OZ-2vlCjAFE)
 
 [Left navigation bar](https://www.youtube.com/watch?v=2K9aNCS8iAI)
