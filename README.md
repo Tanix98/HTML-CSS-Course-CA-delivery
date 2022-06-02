@@ -1,6 +1,6 @@
 # Cross-course project: GameHub
 
-![Game Hub logo](https://i.imgur.com/KzhBvS2.png)
+![Game Hub logo](https://i.imgur.com/BGWWst2.png)
 
 An online video game marketplace. My first attempt at building a proper website using HTML & CSS, which is why it lacks responsiveness and functionality.
 
