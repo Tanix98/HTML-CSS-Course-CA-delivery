@@ -36,9 +36,7 @@ GameHub is a marketplace to buy and sell video games, with a target audience of 
 
 ## Contact
 
-oysteinrostvik@protonmail.com
-
-[My LinkedIn account](https://www.linkedin.com/in/øystein-røstvik/?locale=en_US "My LinkedIn account")
+[Click to view my contact info]()
 
 ---
 
@@ -61,7 +59,7 @@ oysteinrostvik@protonmail.com
 
 [Star icon](https://fonts.google.com/icons?selected=Material%20Icons%3Agrade%3A)
 
-Promotional game banners from Epic Games Store: 
+### Promotional game banners from Epic Games Store: 
 https://www.epicgames.com/store/en-US/p/nba-2k21
 https://www.epicgames.com/store/en-US/p/control
 https://www.epicgames.com/store/en-US/p/death-stranding
@@ -72,7 +70,7 @@ https://www.epicgames.com/store/en-US/p/world-war-z
 https://www.epicgames.com/store/en-US/p/ghostrunner
 https://www.epicgames.com/store/en-US/p/horizon-zero-dawn-complete-edition
 
-Game promontional material used in Resale Market:
+### Game promontional material used in Resale Market:
 https://no.coolshop.com/produkt/fable-iii-3/AX4JV8/
 https://www.mobygames.com/game/igi-2-covert-strike/cover-art/gameCoverId,37175/
 https://howlongtobeat.com/game?id=51225&s=reviews&sb=score
