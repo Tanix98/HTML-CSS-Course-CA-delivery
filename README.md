@@ -2,7 +2,7 @@
 
 ![Game Hub logo](https://i.imgur.com/KzhBvS2.png)
 
-An online video game marketplace. It was my first attempt at building a proper website using HTML & CSS, which is why it lacks responsiveness and functionality.
+An online video game marketplace. My first attempt at building a proper website using HTML & CSS, which is why it lacks responsiveness and functionality.
 
 ---
 
