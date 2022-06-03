@@ -28,7 +28,7 @@ GameHub is a marketplace to buy and sell video games, with a target audience of 
 
 ## Contact
 
-<a href="https://oystein-rostvik-portfolio.netlify.app/pages/socials.html" target="_blank">Click to view my contact info</a>
+[Click to view my contact info](https://oystein-rostvik-portfolio.netlify.app/pages/socials.html)
 
 ## Acknowledgments
 
